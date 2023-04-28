@@ -1,0 +1,28 @@
+{
+  "prices": [
+    {
+      "skuId": "12345",
+      "externalId": "e906e502-6976-43b8-9fa0-50e7408ac86a",
+      "distributionCenterId": "DC12345",
+      "skuPrice": 99.9,
+      "measurementUnitPrice": 9.99,
+      "unitPrice": 19.98
+    },
+    {
+      "skuId": "678910",
+      "externalId": "e906e502-6976-43b8-9fa0-50e7408ac86a",
+      "distributionCenterId": "DC678910",
+      "skuPrice": 59.9,
+      "measurementUnitPrice": 5.99,
+      "unitPrice": 11.98
+    },
+    {
+      "skuId": "1011213",
+      "externalId": "e906e502-6976-43b8-9fa0-50e7408ac86a",
+      "distributionCenterId": "DC10111213",
+      "skuPrice": 129.9,
+      "measurementUnitPrice": 12.99,
+      "unitPrice": 25.98
+    }
+  ]
+}
