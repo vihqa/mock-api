@@ -13,6 +13,12 @@
       "unitPrice": 11.98
     },
     {
+      "id": "391",
+      "skuPrice": 100.9,
+      "measurementUnitPrice": 5.99,
+      "unitPrice": 11.98
+    },
+    {
       "id": "271",
       "skuPrice": 129.9,
       "measurementUnitPrice": 12.99,
