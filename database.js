@@ -5,12 +5,12 @@ module.exports.data = {
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 99.9,
-                    "measurementUnitPrice": 9.99,
-                    "unitPrice": 19.98,
-                    "skuPriceWithDiscounts": 99.9,
-                    "measurementUnitPriceWithDiscounts": 9.99,
-                    "unitPriceWithDiscounts": 19.98,
+                    "skuPrice": 7.00,
+                    "measurementUnitPrice": 2.00,
+                    "unitPrice": 2.50,
+                    "skuPriceWithDiscounts": 7.00,
+                    "measurementUnitPriceWithDiscounts": 2.00,
+                    "unitPriceWithDiscounts": 2.50,
                     "appliedDiscounts": null
                 }
             ]
@@ -20,12 +20,12 @@ module.exports.data = {
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 99.9,
-                    "measurementUnitPrice": 9.99,
-                    "unitPrice": 19.98,
-                    "skuPriceWithDiscounts": 89.91,
-                    "measurementUnitPriceWithDiscounts": 8.99,
-                    "unitPriceWithDiscounts": 17.98,
+                    "skuPrice": 60.00,
+                    "measurementUnitPrice": 30.00,
+                    "unitPrice": 19.00,
+                    "skuPriceWithDiscounts": 54.00,
+                    "measurementUnitPriceWithDiscounts": 27.00,
+                    "unitPriceWithDiscounts": 18.10,
                     "appliedDiscounts": [
                         {
                             "discount": {
@@ -40,13 +40,13 @@ module.exports.data = {
         },
         {
             "id": 279,
-            "quantity": 10,
+            "quantity": 4,
             "prices": [
                 {
-                    "skuPrice": 99.9,
-                    "measurementUnitPrice": 9.99,
-                    "unitPrice": 19.98,
-                    "skuPriceWithDiscounts": 89.9,
+                    "skuPrice": 329.00,
+                    "measurementUnitPrice": 150.00,
+                    "unitPrice": 70.00,
+                    "skuPriceWithDiscounts": 296.10,
                     "measurementUnitPriceWithDiscounts": 8.99,
                     "unitPriceWithDiscounts": 17.98,
                     "appliedDiscounts": [
@@ -73,10 +73,10 @@ module.exports.data = {
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 99.9,
+                    "skuPrice": 5.00,
                     "measurementUnitPrice": 9.99,
                     "unitPrice": 19.98,
-                    "skuPriceWithDiscounts": 89.9,
+                    "skuPriceWithDiscounts": 4.50,
                     "measurementUnitPriceWithDiscounts": 8.99,
                     "unitPriceWithDiscounts": 17.98,
                     "appliedDiscounts": [
@@ -96,7 +96,7 @@ module.exports.data = {
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 99.9,
+                    "skuPrice": 95.00,
                     "measurementUnitPrice": 9.99,
                     "unitPrice": 19.98,
                     "skuPriceWithDiscounts": 66.66,
@@ -129,10 +129,10 @@ module.exports.data = {
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 99.9,
+                    "skuPrice": 84.00,
                     "measurementUnitPrice": 9.99,
                     "unitPrice": 19.98,
-                    "skuPriceWithDiscounts": 89.9,
+                    "skuPriceWithDiscounts": 75.60,
                     "measurementUnitPriceWithDiscounts": 8.99,
                     "unitPriceWithDiscounts": 17.98,
                     "appliedDiscounts": [
