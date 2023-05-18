@@ -7,7 +7,7 @@
       "unitPrice": 19.98
     },
     {
-      "id": "27",
+      "id": "8",
       "skuPrice": 69.9,
       "measurementUnitPrice": 5.99,
       "unitPrice": 11.98
@@ -19,20 +19,20 @@
       "unitPrice": 11.98
     },
     {
-      "id": "276",
+      "id": "90",
       "skuPrice": 10.9,
       "measurementUnitPrice": 5.99,
       "unitPrice": 11.98
     },
     {
-      "id": "110",
-      "skuPrice": 10.9,
+      "id": "27",
+      "skuPrice": 99.9,
       "measurementUnitPrice": 12.99,
       "unitPrice": 25.98
     },
     {
-      "id": "7",
-      "skuPrice": 10.9,
+      "id": "400",
+      "skuPrice": 99.9,
       "measurementUnitPrice": 12.99,
       "unitPrice": 25.98
     }
