@@ -1,19 +1,19 @@
 {
   "skus": [
     {
-      "id": "5",
+      "id": "72",
       "skuPrice": 129.29,
       "measurementUnitPrice": 9.99,
       "unitPrice": 19.98
     },
     {
-      "id": "164",
+      "id": "27",
       "skuPrice": 69.9,
       "measurementUnitPrice": 5.99,
       "unitPrice": 11.98
     },
     {
-       "id": "278",
+       "id": "52",
       "skuPrice": 69.9,
       "measurementUnitPrice": 5.99,
       "unitPrice": 11.98
