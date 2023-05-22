@@ -5,7 +5,7 @@ module.exports.data = {
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 90.99,
+                    "skuPrice": 80.99,
                     "measurementUnitPrice": 2.00,
                     "unitPrice": 2.50,
                     "skuPriceWithDiscounts": 100.99,
