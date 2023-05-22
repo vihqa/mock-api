@@ -8,7 +8,7 @@ module.exports.data = {
                     "skuPrice": 80.99,
                     "measurementUnitPrice": 2.00,
                     "unitPrice": 2.50,
-                    "skuPriceWithDiscounts": 100.99,
+                    "skuPriceWithDiscounts": 80.99,
                     "measurementUnitPriceWithDiscounts": 2.00,
                     "unitPriceWithDiscounts": 2.50,
                     "appliedDiscounts": null
