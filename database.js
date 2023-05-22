@@ -5,10 +5,10 @@ module.exports.data = {
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 361.34,
+                    "skuPrice": 100.99,
                     "measurementUnitPrice": 2.00,
                     "unitPrice": 2.50,
-                    "skuPriceWithDiscounts": 361.34,
+                    "skuPriceWithDiscounts": 100.99,
                     "measurementUnitPriceWithDiscounts": 2.00,
                     "unitPriceWithDiscounts": 2.50,
                     "appliedDiscounts": null
@@ -20,10 +20,10 @@ module.exports.data = {
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 277.45,
+                    "skuPrice": 142.32,
                     "measurementUnitPrice": 30.00,
                     "unitPrice": 19.00,
-                    "skuPriceWithDiscounts": 249.71,
+                    "skuPriceWithDiscounts": 128.08,
                     "measurementUnitPriceWithDiscounts": 27.00,
                     "unitPriceWithDiscounts": 18.10,
                     "appliedDiscounts": [
