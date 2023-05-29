@@ -69,14 +69,14 @@ module.exports.data = {
             ]
         },
         {
-            "id": 129,
+            "id": 39,
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 5.00,
+                    "skuPrice": 172.20,
                     "measurementUnitPrice": 9.99,
                     "unitPrice": 19.98,
-                    "skuPriceWithDiscounts": 4.50,
+                    "skuPriceWithDiscounts": 189.42,
                     "measurementUnitPriceWithDiscounts": 8.99,
                     "unitPriceWithDiscounts": 17.98,
                     "appliedDiscounts": [
