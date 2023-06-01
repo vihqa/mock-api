@@ -96,10 +96,10 @@ module.exports.data = {
             "quantity": 10,
             "prices": [
                 {
-                    "skuPrice": 95.00,
+                    "skuPrice": 102.48,
                     "measurementUnitPrice": 9.99,
                     "unitPrice": 19.98,
-                    "skuPriceWithDiscounts": 66.66,
+                    "skuPriceWithDiscounts": 150.90,
                     "measurementUnitPriceWithDiscounts": 6.66,
                     "unitPriceWithDiscounts": 13.32,
                     "appliedDiscounts": [
