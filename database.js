@@ -39,7 +39,7 @@ module.exports.data = {
             ]
         },
         {
-            "id": 27,
+            "id": 2,
             "quantity": 4,
             "prices": [
                 {
