@@ -31,7 +31,7 @@ module.exports.data = {
                     "skuPrice": 356.79,
                     "measurementUnitPrice": 150.00,
                     "unitPrice": 70.00,
-                    "skuPriceWithDiscounts": 500.91,
+                    "skuPriceWithDiscounts": 200.99,
                     "measurementUnitPriceWithDiscounts": 8.99,
                     "unitPriceWithDiscounts": 17.98,
                     "appliedDiscounts": [
