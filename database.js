@@ -1,7 +1,7 @@
 module.exports.data = {
     "skus": [
         {
-            "id": 2,
+            "id": 140,
             "quantity": 10,
             "prices": [
                 {
