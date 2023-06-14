@@ -19,7 +19,17 @@ module.exports.data = {
                                 "discountValue": 10
                             }
                         }
-                    ]
+                    ],
+                    "discounts": [
+                        {
+                          "id": "522a553a-1cd7-4a6b-90ec-cd8a2403554d",
+                          "discountType": "VOLUME"
+                        },
+                        {
+                          "id": "16979128-f19d-4da5-b908-79c4bbefb87d",
+                          "discountType": "BOGO"
+                        }
+                  ]
                 }
             ]
         },
@@ -49,7 +59,8 @@ module.exports.data = {
                                 ]
                             }
                         }
-                    ]
+                    ],
+                    "discounts": null
                 }
             ]
         }
