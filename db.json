@@ -5,6 +5,13 @@
       "skuPrice": 2.99,
       "measurementUnitPrice": 9.99,
       "unitPrice": 19.98,
+      "discounts": null
+    },
+    {
+      "id": "2",
+      "skuPrice": 200.99,
+      "measurementUnitPrice": 5.99,
+      "unitPrice": 11.98,
       "discounts": [
         {
           "id": "522a553a-1cd7-4a6b-90ec-cd8a2403554d",
@@ -15,13 +22,6 @@
           "discountType": "BOGO"
         }
       ]
-    },
-    {
-      "id": "2",
-      "skuPrice": 200.99,
-      "measurementUnitPrice": 5.99,
-      "unitPrice": 11.98,
-      "discounts": null
     },
     {
        "id": "148",
