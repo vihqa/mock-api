@@ -14,21 +14,51 @@
       "unitPrice": 11.98,
       "discounts": [
         {
-          "id": "522a553a-1cd7-4a6b-90ec-cd8a2403554d",
-          "discountType": "VOLUME"
-        },
-        {
-          "id": "16979128-f19d-4da5-b908-79c4bbefb87d",
-          "discountType": "BOGO"
+          "id": "508b8288-ce70-47d3-af6b-bf4e43c5ce67",
+          "discountType": "VOLUME",
+          "discountValueType": "PERCENTAGE",
+          "discountValue": null,
+          "volumeRanges": [
+            {
+              "minQuantity": 5,
+              "maxQuantity": 20,
+              "discountValue": 5
+            },
+            {
+              "minQuantity": 21,
+              "maxQuantity": 50,
+              "discountValue": 10
+            }
+          ]
         }
       ]
     },
     {
-       "id": "148",
+      "id": "148",
       "skuPrice": 0.99,
       "measurementUnitPrice": 5.99,
       "unitPrice": 11.98,
-      "discounts": null
+       "discounts": [
+        {
+          "id": "508b8288-ce70-47d3-af6b-bf4e43c5ce67",
+          "discountType": "BOGO",
+          "discountValueType": "PERCENTAGE",
+          "discountValue": null,
+          "buy": [
+            {
+              "skuId": 298,
+              "quantity": 10
+            }
+          ],
+          "get": [
+            {
+              "skuId": 326, 
+              "quantity": 2
+            }
+          ]
+        }
+      ]
+    }
     },
     {
       "id": "90",
