@@ -60,7 +60,26 @@ module.exports.data = {
                             }
                         }
                     ],
-                    "discounts": null
+                    "discounts": [
+                    {
+                      "id": "508b8288-ce70-47d3-af6b-bf4e43c5ce67",
+                      "discountType": "VOLUME",
+                      "discountValueType": "PERCENTAGE",
+                      "discountValue": null,
+                      "volumeRanges": [
+                        {
+                          "minQuantity": 5,
+                          "maxQuantity": 20,
+                          "discountValue": 5
+                        },
+                        {
+                          "minQuantity": 21,
+                          "maxQuantity": 50,
+                          "discountValue": 10
+                        }
+                      ]
+                    }
+                  ]
                 }
             ]
         }
