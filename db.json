@@ -33,6 +33,32 @@
         }
       ]
     },
+      {
+      "id": 166,
+      "skuPrice": 300.99,
+      "measurementUnitPrice": 5.99,
+      "unitPrice": 11.98,
+      "discounts": [
+        {
+          "id": "508b8288-ce70-47d3-af6b-bf4e43c5ce67",
+          "discountType": "VOLUME",
+          "discountValueType": "PERCENTAGE",
+          "discountValue": null,
+          "volumeRanges": [
+            {
+              "minQuantity": 5,
+              "maxQuantity": 20,
+              "discountValue": 5
+            },
+            {
+              "minQuantity": 21,
+              "maxQuantity": 50,
+              "discountValue": 10
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 148,
       "skuPrice": 0.99,
