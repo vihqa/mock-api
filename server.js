@@ -1,6 +1,7 @@
 const jsonServer = require('json-server');
 
 const { data } = require('./database')
+const { recomendations } = require('./recommendations/lists')
 const server = jsonServer.create()
 const router = jsonServer.router('db.json');
 const middleware = jsonServer.defaults()
@@ -23,6 +24,11 @@ server.post('/discounts', (req, res) => {
 
 server.get('/discounts', (req, res) => {
     res.json(data.skus);
+})
+
+/* Mock das listas de recomendação */
+server.get('/recommendations/lists', (req, res) => {
+    res.json(recomendations.lists)
 })
 
 const port = 8080
