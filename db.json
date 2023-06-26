@@ -22,12 +22,12 @@
             {
               "minQuantity": 5,
               "maxQuantity": 20,
-              "discountValue": 10
+              "discountValue": 30
             },
             {
               "minQuantity": 21,
               "maxQuantity": 50,
-              "discountValue": 40
+              "discountValue": 70
             }
           ]
         }
