@@ -29,19 +29,19 @@ server.get('/discounts', (req, res) => {
 })
 
 /* Mock das listas de recomendação */
-server.get('/recommendations/pos/:posId/salesChannel/:salesChannel/lists', (req, res) => {
-    res.json(recomendations.lists)
+server.get('/recommendations/lists', (req, res) => {
+    res.json(list.lists)
 })
 
 /* Mock das vitrines */
 
 // get to now
-server.get('/recommendations/pos/:posId/salesChannel/:salesChannel/get-to-know', (req, res) => {
+server.get('/recommendations/get-to-know', (req, res) => {
     res.json(getToKnow['get-to-know'])
 })
 
 // most bought
-server.get('/recommendations/pos/:posId/salesChannel/:salesChannel/most-bought', (req, res) => {
+server.get('/recommendations/most-bought', (req, res) => {
     res.json(mostBought['most-bought'])
 })
 
